@@ -1,6 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import JournalEntry from './JournalEntry';
 import './Homepage.css';
+
  
 function App() {
   const [entries, setEntries] = useState([]);

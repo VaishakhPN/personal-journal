@@ -6,6 +6,8 @@
   box-shadow: 0 0 5px rgba(0, 0, 0, 0.2);
   border-radius: 5px;
   text-align: center;
+  font-family: 'Edu TAS Beginner', cursive;
+  /* font-family: 'Source Sans 3', sans-serif; */
 }
 
 .entry-form{
